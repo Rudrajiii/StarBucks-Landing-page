@@ -1,0 +1,48 @@
+.button-styling{
+    padding: 7.7px 14.7px;
+    border-radius: 20px;
+    background: #fff;
+    border: 0.5px solid black;
+    font-size: 0.95rem;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bg{
+    background: #000;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.fonts{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.link_styles_type_2{
+    text-decoration: none;
+    color: #000;
+}
+.link_styles_type_1{
+    text-decoration: none;
+    color: #fff;
+    
+}
+.utility_button_version_one{
+    color: white;
+    border: 0.5px solid white;
+    background: #006241;
+}
+
+.no-bullets{
+    list-style: none;
+}
+
+.size_definer{
+    font-size: 1.4rem;
+    font-weight: 400;
+}
+.gray{
+    color: gray;
+    font-size: 1.1rem;
+}
+.size{
+    font-size: large;
+}

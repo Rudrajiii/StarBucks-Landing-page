@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: var(--color);
+    font-family: 'Roboto', sans-serif;
+}
+    html, body{
+        width: 100vw;
+        height: 100vh;
+        overflow-x:hidden;
+    }
+    .main{
+        display: grid;
+        width: 100%;
+        height: 100%;
+        grid-template-columns: repeat(2,1fr);
+        gap: 10px;
+      
+    }
+    .main .left{
+        width: 25vw;
+        height: 90vh;
+        background: yellow;
+    }
+    .main .right{
+        width: 75vw;
+        height: 90vh;
+        background: orangered;
+    }
+    .main .footer{
+        width: 100%;
+        background:blue;
+        grid-column: 1/3;
+        height: calc(100vh - 90vh);
+    }
+    </style>
+</head>
+<body>
+    <div class="main">
+        <div class="left"></div>
+        <div class="right"></div>
+        <div class="footer"></div>
+    </div>
+</body>
+</html>
+

@@ -1,5 +1,9 @@
 # StarBucks_Landing_page
 Demo Video of Project
 
-[Uploading Untitled video - Made with Clipchamp (1).mp4…](https://clipchamp.com/watch/o0hYOJMtQGl)https://clipchamp.com/watch/o0hYOJMtQGl
+
+
+
+
+https://github.com/Rudrajiii/StarBucks_Landing_page/assets/148994780/cdfba595-7fe7-465c-99c3-dde412ebabc6
 
